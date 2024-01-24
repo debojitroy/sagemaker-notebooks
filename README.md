@@ -1,2 +1,3 @@
 # sagemaker-notebooks
-Different Notebooks using sagemaker
+
+Experiments on Sagemaker with different ML algorithms
